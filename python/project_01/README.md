@@ -34,4 +34,4 @@ Now, patiently wait for your alarm to go off. Once the alarm is set, the Record 
 To stop the alarm, press Button 1 to snooze. 
 
 Youtube Video of Demo is Here: https://youtu.be/3vX1a-8VKSU
-Hackster.io Page Here: 
+Hackster.io Page Here: https://www.hackster.io/hugoestradaii/record-player-alarm-clock-121bae
